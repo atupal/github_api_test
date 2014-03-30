@@ -1,6 +1,6 @@
 postst:
   - tile: hehe
-    time: //sdf
+    time: "//sdf, hehe, "
   - tit: 1
     b: 2
 tags:
