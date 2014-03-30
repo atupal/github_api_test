@@ -1,12 +1,9 @@
-a:
+postst:
+  - tile: hehe
+    time: //sdf
+  - tit: 1
+    b: 2
+tags:
   - 1
   - 2
-  - 3
-  - 4
-b:
-  - a: 1
-    b: 2
-    c: 3
-    d:
-      a:
-        - 1
+  - tag
