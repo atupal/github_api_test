@@ -1,9 +1,1 @@
-postst:
-  - tile: hehe
-    time: "//sdf, hehe, "
-  - tit: 1
-    b: 2
-tags:
-  - 1
-  - 2
-  - tag
+!<tag:yaml.org,2002:js/undefined> ""
