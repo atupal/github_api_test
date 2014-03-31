@@ -53,30 +53,16 @@ posts:
     tag:
       - linux
       - os
-  - title: _hehe
-    md_name: _hehe
-    url: /atupal/blog-posts/master/posts/test4.md
+  - title: _github_api调用
+    md_name: _github_api调用
+    url: /atupal/blog-posts/master/posts/github_api.md
     time: 2014/3/31
     author: atupal
     md5sum: n/a
     tag: []
-  - title: _hehe
-    md_name: _hehe
-    url: /atupal/github_api_test/master/posts/test4.md
-    time: 2014/3/31
-    author: atupal
-    md5sum: n/a
-    tag: []
-  - title: _hehe
-    md_name: _hehe
-    url: /atupal/github_api_test/master/posts/test4.md
-    time: 2014/3/31
-    author: atupal
-    md5sum: n/a
-    tag: []
-  - title: _hehe
-    md_name: _hehe
-    url: /atupal/github_api_test/master/posts/test4.md
+  - title: _enehng
+    md_name: _enehng
+    url: /atupal/github_api_test/master/posts/test5.md
     time: 2014/3/31
     author: atupal
     md5sum: n/a
