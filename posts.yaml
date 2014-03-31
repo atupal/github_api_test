@@ -9,28 +9,40 @@ posts:
     author: atupal
     md5sum: ec6e6b46ea37c5ba15f4c8ec46d66eda
     tag: []
-  - {}
+  - a: 1
+  - b: 1
+  - c: 1
+  - d: 1
   - title: week6 log -test
     md_name: 中文.md
     time: 2013/08/18
     author: atupal
     md5sum: bfb2763ec138570aa3e2594e7e738891
     tag: []
-  - {}
+  - a: 1
+  - b: 1
+  - c: 1
+  - d: 1
   - title: hello world
     md_name: hello_world.md
     time: 2013/08/18
     author: atupal
     md5sum: a66ce99b0376251fb007358ceff4d120
     tag: []
-  - {}
+  - a: 1
+  - b: 1
+  - c: 1
+  - d: 1
   - title: 阿里巴巴UED测试
     md_name: alibaba_front_end.md
     time: 2013/08/23
     author: atupal
     md5sum: 145d4bebb16a0f9c074c7663674dd22a
     tag: []
-  - {}
+  - a: 1
+  - b: 1
+  - c: 1
+  - d: 1
   - title: unix setuid introduction
     md_name: unix_setuid.md
     time: 2013/08/23
@@ -38,7 +50,10 @@ posts:
     md5sum: 2d73065f78c55cc50b3ad4fd9e1244e2
     tag:
       - linux
-  - {}
+  - a: 1
+  - b: 1
+  - c: 1
+  - d: 1
   - title: 精通python
     md_name: master_python.md
     time: 2013/10/13
@@ -46,7 +61,10 @@ posts:
     md5sum: n/a
     tag:
       - python
-  - {}
+  - a: 1
+  - b: 1
+  - c: 1
+  - d: 1
 tags:
   - 1
   - 2
