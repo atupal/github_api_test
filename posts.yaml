@@ -1,1 +1,16 @@
-!<tag:yaml.org,2002:js/undefined> ""
+posts:
+  - title: hehe
+    time: //sdf
+  - title: 1
+    time: 2
+  - title: _commit from a node bot
+    md_name: _commit from a node bot
+    url: /atupal/blog-posts/master/posts/test4.md
+    time: 2014/3/30
+    author: atupal
+    md5sum: n/a
+    tag: []
+tags:
+  - 1
+  - 2
+  - tag
