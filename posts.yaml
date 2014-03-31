@@ -6,7 +6,7 @@ posts:
   - title: _commit from a node bot
     md_name: _commit from a node bot
     url: /atupal/blog-posts/master/posts/test4.md
-    time: 2014/3/30
+    time: 2014/3/31
     author: atupal
     md5sum: n/a
     tag: []
@@ -34,6 +34,20 @@ posts:
     author: atupal
     md5sum: 145d4bebb16a0f9c074c7663674dd22a
     tag: []
+  - title: unix setuid introduction
+    md_name: unix_setuid.md
+    time: 2013/08/23
+    author: atupal
+    md5sum: 2d73065f78c55cc50b3ad4fd9e1244e2
+    tag:
+      - linux
+  - title: 精通python
+    md_name: master_python.md
+    time: 2013/10/13
+    author: atupal
+    md5sum: n/a
+    tag:
+      - python
 tags:
   - 1
   - 2
