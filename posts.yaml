@@ -1,8 +1,4 @@
 posts:
-  - title: hehe
-    time: //sdf
-  - title: 1
-    time: 2
   - title: "some paases ,can run go"
     time: 2013/08/19
     md_name: paas.md
@@ -41,16 +37,30 @@ posts:
     md5sum: n/a
     tag:
       - python
-  - title: week6 log -test
-    md_name: 中文.md
-    time: 2013/08/18
+  - title: _Hue+nginx apache开启https
+    md_name: _Hue+nginx apache开启https
+    url: /atupal/note/master/hue+uwsgi+nginx_调研笔记.md
+    time: 2013/11/13
     author: atupal
-    md5sum: bfb2763ec138570aa3e2594e7e738891
+    md5sum: n/a
+    tag:
+      - server
+  - title: 通过virtuabox/vmware启动硬盘上的系统
+    md_name: virtualbox or vmware启动硬盘上的系统.md
+    time: 2014/3/2
+    author: atupal
+    md5sum: n/a
+    tag:
+      - linux
+      - os
+  - title: _hehe
+    md_name: _hehe
+    url: /atupal/blog-posts/master/posts/test4.md
+    time: 2014/3/31
+    author: atupal
+    md5sum: n/a
     tag: []
 tags:
-  - 1
-  - 2
-  - tag
   - python
   - cs
   - server
