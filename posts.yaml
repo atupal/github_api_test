@@ -60,13 +60,15 @@ posts:
     author: atupal
     md5sum: n/a
     tag: []
-  - title: _enehng
-    md_name: _enehng
-    url: /atupal/github_api_test/master/posts/test5.md
+  - title: _github_api_python调用
+    md_name: _github_api_python调用
+    url: /atupal/blog-posts/master/posts/github_api_python.md
     time: 2014/3/31
     author: atupal
     md5sum: n/a
-    tag: []
+    tag:
+      - python
+      - server
 tags:
   - python
   - cs
