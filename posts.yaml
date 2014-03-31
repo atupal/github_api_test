@@ -60,13 +60,6 @@ posts:
     author: atupal
     md5sum: n/a
     tag: []
-  - title: _github_api_python调用
-    md_name: _github_api_python调用
-    url: /atupal/github_api_test/master/posts/github_api_python.md
-    time: 2014/3/31
-    author: atupal
-    md5sum: n/a
-    tag: []
 tags:
   - python
   - cs
